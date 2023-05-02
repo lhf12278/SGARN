@@ -15,7 +15,7 @@ The *official* repository for  [Structure-embedded Ghosting Artifact Suppression
 ### Installation
 
 ```bash
-(we use /torch >=1.1 / 24G  RTX3090 for training and evaluation.)
+we use /torch >=1.1 / 24G  RTX3090 for training and evaluation.
 
 ```
 
