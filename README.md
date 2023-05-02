@@ -8,7 +8,7 @@ The *official* repository for  [Structure-embedded Ghosting Artifact Suppression
 
 ## Pipeline
 
-![framework](fig/framework.png)
+![framework](/SGARN/fig/framework.png)
 
 ## Requirements
 
