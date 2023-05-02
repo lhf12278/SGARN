@@ -25,7 +25,7 @@ we use /torch >=1.1 / 24G  RTX3090 for training and evaluation.
 mkdir data
 ```
 
-Download the person datasets [Kalantari](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/).
+Download the HDR datasets [Kalantari](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/).
 
 Then unzip them and rename them under the directory like.
 
